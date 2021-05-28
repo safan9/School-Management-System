@@ -2,9 +2,9 @@
 School Management System as Website with 3 Levels of Access in Core PHP.
 
 ## Directory Structure
-=> All admin content can be found under <code><b>/Admin/dark</b></code>.<br/>
-=> The <code>root</code> directory contains <b>student</b> content.<br/>
-=> All staff content are under <code><b>/Staff</b></code>.<br/>
+=> All admin resources can be found under <code><b>/Admin/dark</b></code>.<br/>
+=> The <code>root</code> directory contains <b>student</b> resources.<br/>
+=> All staff resources are under <code><b>/Staff</b></code>.<br/>
 
 ### Note:
 <b><i>
