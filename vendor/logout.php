@@ -1,0 +1,11 @@
+<?php
+	session_start();
+	if(!isset($_SESSION["student_id"])){
+		header("location:../login.php");
+	}else
+	if(isset($_SESSION["student_id"])){
+		unset($_SESSION["student_id"]);
+		session_destroy();
+		header("location:../login.php");
+	}
+?>
